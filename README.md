@@ -1,4 +1,3 @@
-```
 ┌─────────────────────────────────────┐
 │ MARK WUNSCH                         │
 │ Fractional CTO • Educator •         │
@@ -21,4 +20,3 @@
 ---
 15+ years • Kickstarter, Harry's, RTR, and more
 Hudson River Valley, NY
-```
