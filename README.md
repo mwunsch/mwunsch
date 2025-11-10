@@ -1,8 +1,7 @@
 ```
 ┌─────────────────────────────────────┐
 │ MARK WUNSCH                         │
-│ Fractional CTO • Intelligence       │
-│ Artificer • Educator                │
+│ Fractional CTO • Educator •         │
 │ Volunteer Firefighter               │
 └─────────────────────────────────────┘
 
@@ -12,8 +11,7 @@
    • Writing at [/wunsch/log](https://wunsch.substack.com/)
 
 => Stack
-   Emacs | TypeScript | Ruby | Racket | Clojure | Scala | Elm
-   React Native/Expo | Deno | Cloudflare Workers | Turso/SQLite
+   Emacs • Polyglot • [Intelligence Artificer](https://wunsch.substack.com/p/an-intelligence-artificer)
 
 => Links
    → [wunschwerks.com](https://www.wunschwerks.com/)
