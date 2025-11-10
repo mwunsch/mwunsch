@@ -15,7 +15,9 @@
 Emacs • Polyglot • [Intelligence Artificer](https://wunsch.substack.com/p/an-intelligence-artificer)
 
 ### => Links
-→ [wunschwerks.com](https://www.wunschwerks.com/) • [linkedin.com/in/mwunsch](https://www.linkedin.com/in/mwunsch) • [wunsch.substack.com](https://wunsch.substack.com/)
+→ [wunschwerks.com](https://www.wunschwerks.com/) \
+→ [linkedin.com/in/mwunsch](https://www.linkedin.com/in/mwunsch) \
+→ [wunsch.substack.com](https://wunsch.substack.com/)
 
 ---
-*15+ years • Kickstarter, Harry's, RTR, and more • Hudson River Valley, NY*
+*16+ years • Kickstarter, Harry's, RTR, and more • Hudson River Valley, NY*
