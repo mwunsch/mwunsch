@@ -10,7 +10,7 @@
    • Teaching at Columbia University SPS
    • Writing at [/wunsch/log](https://wunsch.substack.com/)
 
-=> Stack
+=> Craft
    Emacs • Polyglot • [Intelligence Artificer](https://wunsch.substack.com/p/an-intelligence-artificer)
 
 => Links
