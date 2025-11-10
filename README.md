@@ -6,15 +6,15 @@
 └─────────────────────────────────────┘
 ```
 
-### => Currently
+### `=> Currently`
 - Building at [Wunsch Werks](https://www.wunschwerks.com/)
-- Teaching at Columbia University SPS
+- Teaching at [Columbia University SPS](https://sps.columbia.edu/person/mark-wunsch)
 - Writing at [/wunsch/log](https://wunsch.substack.com/)
 
-### => Craft
+### `=> Craft`
 Emacs • Polyglot • [Intelligence Artificer](https://wunsch.substack.com/p/an-intelligence-artificer)
 
-### => Links
+### `=> Links`
 → [wunschwerks.com](https://www.wunschwerks.com/) \
 → [linkedin.com/in/mwunsch](https://www.linkedin.com/in/mwunsch) \
 → [wunsch.substack.com](https://wunsch.substack.com/)
